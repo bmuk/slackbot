@@ -27,7 +27,7 @@ setup(
     ],
     keywords="slack bot chat",
     packages=find_packages(),
-    install_requires=["requests"],
+    install_requires=["slouch"],
     entry_points={
         "console_scripts": ["slackbot=slackbot.slackbot:main"]
     }

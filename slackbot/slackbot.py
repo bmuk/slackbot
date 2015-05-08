@@ -1,4 +1,4 @@
-import requests
+from slouch import Bot, help
 
 def main():
     print("hello slackbot")
