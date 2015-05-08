@@ -23,7 +23,7 @@ setup(
         "Intended Audience :: Developers",
         "Topic :: Communications :: Chat",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
-        "Programming Language :: Python :: 3"
+        "Programming Language :: Python :: 2"
     ],
     keywords="slack bot chat",
     packages=find_packages(),
