@@ -1,7 +1,7 @@
 import requests
 
 def main():
-    pass
+    print("hello slackbot")
 
 if __name__ == "__main__":
     main()
