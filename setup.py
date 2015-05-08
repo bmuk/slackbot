@@ -29,6 +29,6 @@ setup(
     packages=find_packages(),
     install_requires=["requests"],
     entry_points={
-        "console_scripts": ["slackbot=slackbot:main"]
+        "console_scripts": ["slackbot=slackbot.slackbot:main"]
     }
 )
